@@ -238,3 +238,5 @@ Output:
 <br>
 <img width="302" height="296" alt="image" src="https://github.com/user-attachments/assets/2528e7ad-b462-4c81-87c2-f5ceff0552ab" />
 
+Result: Thus the playfair cipher was implemented successfully using c programming.
+
